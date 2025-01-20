@@ -1,1 +1,3 @@
 dspy-ai==2.5.43
+faiss-cpu
+json-repair
